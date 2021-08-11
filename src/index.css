@@ -1,0 +1,18 @@
+.App {
+  font-family: 'Barlow', sans-serif;
+  max-height: 100vh;
+  height: 100vh;
+}
+
+body {
+  background-color: #eceff1;
+}
+
+.body {
+  margin: 16px;
+}
+
+.ant-card {
+  max-height: 50vh;
+  overflow: auto;
+}
